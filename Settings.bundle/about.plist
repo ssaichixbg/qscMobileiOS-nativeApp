@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string>关于</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>求是潮Mobile</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Key</key>
+			<string>about_ui</string>
+			<key>Title</key>
+			<string>平面设计</string>
+			<key>DefaultValue</key>
+			<string>XXX</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Key</key>
+			<string>about_ios</string>
+			<key>Title</key>
+			<string>iOS开发</string>
+			<key>DefaultValue</key>
+			<string>YangZ.</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Key</key>
+			<string>about_server</string>
+			<key>Title</key>
+			<string>后端开发</string>
+			<key>DefaultValue</key>
+			<string>Zeno</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Copyright 2000－2013 浙江大学求是潮 All rights Reserved</string>
+		</dict>
+	</array>
+</dict>
+</plist>
